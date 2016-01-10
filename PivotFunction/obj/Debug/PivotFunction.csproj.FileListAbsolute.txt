@@ -1,0 +1,6 @@
+c:\users\polina\documents\visual studio 2015\Projects\PivotFunction\PivotFunction\bin\Debug\PivotFunction.exe.config
+c:\users\polina\documents\visual studio 2015\Projects\PivotFunction\PivotFunction\obj\Debug\PivotFunction.csprojResolveAssemblyReference.cache
+c:\users\polina\documents\visual studio 2015\Projects\PivotFunction\PivotFunction\bin\Debug\PivotFunction.exe
+c:\users\polina\documents\visual studio 2015\Projects\PivotFunction\PivotFunction\bin\Debug\PivotFunction.pdb
+c:\users\polina\documents\visual studio 2015\Projects\PivotFunction\PivotFunction\obj\Debug\PivotFunction.exe
+c:\users\polina\documents\visual studio 2015\Projects\PivotFunction\PivotFunction\obj\Debug\PivotFunction.pdb
